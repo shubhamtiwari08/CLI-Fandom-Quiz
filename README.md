@@ -1,0 +1,2 @@
+This is small Quiz game.It is based on a famous shows of all time in india. The show name is Tarak Mehta Ka Ulta Chasma(TMKOC).It consists of 6 questions.If you are a fan of this show, it should be a cake walk.But You should reconsider that thought and let the scores decide whether it was a cake walk or not. It has simple rule, Right answer gives you 1 point and wrong answer gives negative 1. 
+LETS FIND OUT WHETHER YOU ARE ELIGIBLE TO UNDERSTAND THE MEMES BASED ON TMKOC.
